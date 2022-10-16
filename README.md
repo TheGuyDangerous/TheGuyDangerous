@@ -7,7 +7,7 @@
 - Done Projects related to Frontend web dev.
 <img src = "https://raw.githubusercontent.com/TheGuyDangerous/TheGuyDangerous/main/chitanda.gif"  align = "right"> </img>
 
-## Social
+## Social <p> <img src="https://komarev.com/ghpvc/?username=TheGuyDangerous&label=Profile%20views&color=0e75b6&style=flat" alt="TheGuyDangerous" /> </p>
 - [Linkedin](https://www.linkedin.com/in/sannidhyadubey)
 - [Instagram](https://www.instagram.com/sannnidhya)
 - [Contact me](mailto:sannidhyadubey@gmail.com?subject=Hey%20Sannidhya&body=Hi%20there)
@@ -35,5 +35,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheGuyDangerous&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 <hr>
 <img  src="http://github-readme-streak-stats.herokuapp.com/?user=TheGuyDangerous&theme=dark" />
+
 
  <p align = "center" > Made with 🤍 by Sannidhya. :p </p>
