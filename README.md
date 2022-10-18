@@ -36,5 +36,10 @@
 <hr>
 <img  src="http://github-readme-streak-stats.herokuapp.com/?user=TheGuyDangerous&theme=dark" />
 
+## Holopin Badges
+
+[![@sannidhya's Holopin board](https://holopin.me/sannidhya)](https://holopin.io/@sannidhya)
+
+
 
  <p align = "center" > Made with 🤍 by Sannidhya. :p </p>
