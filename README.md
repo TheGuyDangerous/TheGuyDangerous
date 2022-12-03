@@ -1,6 +1,6 @@
 # <p align=center>✨ SANNIDHYA DUBEY ✨</p>
 
-<img src = "https://raw.githubusercontent.com/TheGuyDangerous/TheGuyDangerous/main/DECEMBER.png"  align = "center"> </img>
+<img src = "DECEMBER.png"  align = "center"> </img>
 
 ## About
 
