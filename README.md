@@ -8,7 +8,7 @@
 - I like doing Competitive Programming.
 - I love learning new skills.
 - Also love html and aspire to become a full stack dev some day.
-- Done Projects related to Flutter and Frontend web dev.
+- Done Projects related to Frontend web dev.
 <img src = "https://questfox.files.wordpress.com/2020/07/taphere.gif?w=200"  align = "right"> </img>
 
 ## Social <p> <img src="https://komarev.com/ghpvc/?username=TheGuyDangerous&label=Profile%20views&color=0e75b6&style=flat" alt="TheGuyDangerous" /> </p>
