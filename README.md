@@ -5,10 +5,11 @@
 ## About
 
 - Flutter Developer.
-- I like doing Competitive Programming.
-- I love learning new skills.
-- Also love html and aspire to become a full stack dev some day.
-- Done Projects related to Frontend web dev.
+- Github Campus Expert 🚩🚩
+- 1 x Google Cloud Arcade Facilitator.
+- Campus Fellow @Hack2Skill.
+- 2 x Hacktoberfest Repository Maintainer.
+  
 <img src = "https://questfox.files.wordpress.com/2020/07/taphere.gif?w=200"  align = "right"> </img>
 
 ## Social <p> <img src="https://komarev.com/ghpvc/?username=TheGuyDangerous&label=Profile%20views&color=0e75b6&style=flat" alt="TheGuyDangerous" /> </p>
