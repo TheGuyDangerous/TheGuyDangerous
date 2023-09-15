@@ -87,8 +87,10 @@ hi, im Sannidhya 🔮
 
 
 ### 🏆 GitHub Status
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheGuyDangerous&theme=highcontrast)](https://git.io/streak-stats) ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheGuyDangerous&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
 
+  <p align="center"> <a href="https://github.com/TheGuyDangerous"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheGuyDangerous&theme=highcontrast" alt="Github Stats"></a>
+                <a href="https://github.com/TheGuyDangerous"><img src="https://github-readme-stats.vercel.app/api?username=TheGuyDangerous&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" alt="Github Stats"></a>
+            </p>
 
 
 
