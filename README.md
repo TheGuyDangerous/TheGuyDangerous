@@ -2,7 +2,7 @@
 <hr>
 
 <a href="https://sannidhya.me/">
-<img src="https://media.licdn.com/dms/image/D4D16AQGuFIjkXDwufA/profile-displaybackgroundimage-shrink_350_1400/0/1669924780872?e=1700092800&v=beta&t=2hAAEBpzgZPoVm6VnDMmzCUFFRteDmDUIOKG0l_QNYU"  width="100%" alt="banner>
+<img src="https://github.com/TheGuyDangerous/TheGuyDangerous/blob/main/Banner.png?raw=true"  width="100%" alt="banner>
 
   </a>
 
