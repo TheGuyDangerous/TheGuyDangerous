@@ -119,7 +119,7 @@ hi, im Sannidhya 🔮
 
 ### Holopin Badges
 
-[![@sannidhya's Holopin board](https://holopin.me/sannidhya)](https://holopin.io/@sannidhya)
+
 
 
 
