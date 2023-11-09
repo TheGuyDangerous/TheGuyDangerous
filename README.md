@@ -119,6 +119,6 @@ hi, im Sannidhya 🔮
 
 ### Holopin Badges
 
-[![An image of @sannidhya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sannidhya)](https://holopin.io/@sannidhya)
+[![@sannidhya's Holopin board](https://holopin.me/sannidhya)](https://holopin.me/sannidhya)
 
  <p align = "center" > Made with 🤍 by Sannidhya. :p </p>
