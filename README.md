@@ -120,6 +120,6 @@ hi, im Sannidhya 🔮
 
 ### Holopin Badges
 
-[![sannidhya](https://github.com/TheGuyDangerous/TheGuyDangerous/assets/78858516/96ad000e-408f-4c9b-8b84-b98bb0068b45)](https://holopin.io/sannidhya#)
+[![sannidhya](https://github.com/TheGuyDangerous/TheGuyDangerous/assets/78858516/96ad000e-408f-4c9b-8b84-b98bb0068b45)](https://www.holopin.io/@sannidhya#)
 
  <p align = "center" > Made with 🤍 by Sannidhya. :p </p>
