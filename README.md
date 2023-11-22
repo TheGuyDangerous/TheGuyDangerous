@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>,+I'm+Sannidhya;A+Flutter+Developer;A+Github+Campus+Expert+🚩+🚩;and+A+Google+Cloud+Arcarde+Facilitator&width=700&height=50&color=ffdc40&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>,+I'm+Sannidhya;A+Flutter+Developer;A+GitHub+Campus+Expert+🚩+🚩;and+A+Google+Cloud+Arcarde+Facilitator&width=700&height=50&color=ffdc40&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
 <hr>
 
 <a href="https://sannidhya.me/">
@@ -29,7 +29,7 @@
 hi, im Sannidhya 🔮
 @@ Pre-final Yr at VIT 🎓@@
 + Flutter Developer
-- Github Campus Expert 🚩
+- GitHub Campus Expert 🚩
 ! Google Cloud Arcade Facilitator
 + Campus Fellow @Hack2Skill
 # 👨‍💻 2x Hacktoberfest Repository maintainer
