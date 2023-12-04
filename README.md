@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>,+I'm+Sannidhya;A+Flutter+Developer;A+GitHub+Campus+Expert+🚩+🚩;and+A+Google+Cloud+Arcarde+Facilitator&width=700&height=50&color=ffdc40&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>,+I'm+Sannidhya;A+Flutter+Developer;A+GitHub+Campus+Expert+🚩+🚩;A+Public+Speaker+🎤;and+A+Google+Cloud+Arcarde+Facilitator&width=700&height=50&color=ffdc40&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
 <hr>
 
 <a href="https://sannidhya.me/">
@@ -120,6 +120,6 @@ hi, im Sannidhya 🔮
 
 ### Holopin Badges
 
-[![sannidhya](https://github.com/TheGuyDangerous/TheGuyDangerous/assets/78858516/96ad000e-408f-4c9b-8b84-b98bb0068b45)](https://www.holopin.io/@sannidhya#)
+[![sannidhya](https://github.com/TheGuyDangerous/TheGuyDangerous/assets/78858516/2f137246-bbbd-47f9-99ba-12a146ba6cce)](https://www.holopin.io/@sannidhya#)
 
  <p align = "center" > Made with 🤍 by Sannidhya. :p </p>
