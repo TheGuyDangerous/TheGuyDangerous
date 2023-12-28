@@ -1,8 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+<Developers/>,+I'm+Sannidhya;A+Flutter+Developer;A+GitHub+Campus+Expert+🚩+🚩;A+Public+Speaker+🎤;and+A+Google+Cloud+Arcarde+Facilitator&width=700&height=50&color=ffdc40&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
 <hr>
 
+
 <a href="https://sannidhya.me/">
-<img src="https://github.com/TheGuyDangerous/TheGuyDangerous/assets/78858516/16f1369a-abfe-41bb-ba54-a7a38d892e2b?raw=true"  width="100%" alt="banner>
+<img src="https://github.com/TheGuyDangerous/TheGuyDangerous/assets/78858516/07158ae7-5ae1-492f-810e-40a996c02f8a?raw=true"  width="100%" alt="banner>
 
 
   </a>
