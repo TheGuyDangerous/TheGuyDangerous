@@ -70,7 +70,7 @@ hi, im Sannidhya 🔮
 
 <div align="center">
   
-  ![Not a brag, just the truth](https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/giphy.webp)
+  ![Not a brag, just the truth](https://raw.githubusercontent.com/TheGuyDangerous/TheGuyDangerous/main/giphy.webp)
 </div>
 
 <hr>
