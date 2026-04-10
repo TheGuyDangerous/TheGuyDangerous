@@ -27,11 +27,10 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im Sannidhya 🔮
-+ Associate S.E. @rtCamp 💻 
+Hey, im Sannidhya 🔮
++ Bulding @Nestack 💻 
 @@ VIT'25 🎓@@
-+ Flutter Dev
-+ PHP Dev
++ Kotlin , Flutter , Next.Js
 - GitHub Campus Expert 🚩
 ! Google Cloud Arcade Facilitator
 # 👨‍💻 3x Hacktoberfest Repository maintainer
